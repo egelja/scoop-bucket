@@ -12,7 +12,7 @@
     "bin": [
         [
             "x86_64-pc-windows-gnu-eza.exe",
-            "eza.exe"
+            "eza"
         ]
     ],
     "checkver": "github",
